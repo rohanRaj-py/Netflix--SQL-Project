@@ -21,7 +21,7 @@ This project involves analyzing Netflix movies and TV shows dataset using SQL. T
 ## Dataset
 
 Source: Kaggle Netflix Dataset
-
+**Dataset:** [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 ---
 
 ## Schema
