@@ -17,10 +17,17 @@ This project involves analyzing Netflix movies and TV shows dataset using SQL. T
 * Categorize content using conditional logic
 
 ---
+## 🛠️ Technologies Used
 
-## Dataset
+- 🗄️ **Database:** PostgreSQL
+- 💻 **Language:** SQL
+- 📂 **Dataset:** Netflix Movies and TV Shows (CSV)
+---
+## 📂 Dataset
 
-Dataset: [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+The dataset used in this project is available on Kaggle:
+
+👉 [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 ---
 
 ## Schema
@@ -246,7 +253,6 @@ GROUP BY category;
 * Worked with **date functions** for time-based analysis
 
 ---
-
 # Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems by transforming raw data into meaningful insights. It covers data cleaning, aggregation, filtering, and advanced SQL techniques, making it a strong foundation for data analysis and backend roles.
